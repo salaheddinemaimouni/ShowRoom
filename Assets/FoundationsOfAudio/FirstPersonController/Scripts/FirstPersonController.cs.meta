@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 55919ac34a26952479f3fc91f777b2fa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183075
+  packageName: Unity Learn | Foundations of Real-Time Audio | URP
+  packageVersion: 1.5
+  assetPath: Assets/FoundationsOfAudio/FirstPersonController/Scripts/FirstPersonController.cs
+  uploadId: 684106

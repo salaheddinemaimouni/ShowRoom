@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8ba31f5b016f9f641bbca9c3d4426e47
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183075
+  packageName: Unity Learn | Foundations of Real-Time Audio | URP
+  packageVersion: 1.5
+  assetPath: Assets/FoundationsOfAudio/Models/Kitchen/Prefab/Refrigerator_30Wx26.5Dx70H_KN001.prefab
+  uploadId: 684106

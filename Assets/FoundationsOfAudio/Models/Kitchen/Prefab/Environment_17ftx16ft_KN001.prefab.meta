@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7da8f4309f655b24ebfd231988be320f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183075
+  packageName: Unity Learn | Foundations of Real-Time Audio | URP
+  packageVersion: 1.5
+  assetPath: Assets/FoundationsOfAudio/Models/Kitchen/Prefab/Environment_17ftx16ft_KN001.prefab
+  uploadId: 684106

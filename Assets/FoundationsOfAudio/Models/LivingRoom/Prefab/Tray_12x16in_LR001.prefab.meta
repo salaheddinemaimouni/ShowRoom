@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bc811533d22000d42b9afddcacf1fd55
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183075
+  packageName: Unity Learn | Foundations of Real-Time Audio | URP
+  packageVersion: 1.5
+  assetPath: Assets/FoundationsOfAudio/Models/LivingRoom/Prefab/Tray_12x16in_LR001.prefab
+  uploadId: 684106

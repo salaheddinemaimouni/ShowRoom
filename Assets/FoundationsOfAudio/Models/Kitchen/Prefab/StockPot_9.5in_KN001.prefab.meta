@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0745ed289416c3e4bb82a516b9654a09
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183075
+  packageName: Unity Learn | Foundations of Real-Time Audio | URP
+  packageVersion: 1.5
+  assetPath: Assets/FoundationsOfAudio/Models/Kitchen/Prefab/StockPot_9.5in_KN001.prefab
+  uploadId: 684106

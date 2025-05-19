@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f575e4e9d195fa845bcdcfdabceeff5a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183075
+  packageName: Unity Learn | Foundations of Real-Time Audio | URP
+  packageVersion: 1.5
+  assetPath: Assets/FoundationsOfAudio/Models/Kitchen/Prefab/Microwave_19.5in_KN001.prefab
+  uploadId: 684106

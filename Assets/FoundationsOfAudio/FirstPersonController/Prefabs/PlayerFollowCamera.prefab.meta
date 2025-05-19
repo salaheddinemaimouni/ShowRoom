@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9c489a8547f4d9e4387da15a4ff82c81
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183075
+  packageName: Unity Learn | Foundations of Real-Time Audio | URP
+  packageVersion: 1.5
+  assetPath: Assets/FoundationsOfAudio/FirstPersonController/Prefabs/PlayerFollowCamera.prefab
+  uploadId: 684106

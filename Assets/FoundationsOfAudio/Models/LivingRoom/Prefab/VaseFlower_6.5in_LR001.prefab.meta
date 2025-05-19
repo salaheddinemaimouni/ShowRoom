@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 445883a2656a9a14caf001b3b441ab13
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183075
+  packageName: Unity Learn | Foundations of Real-Time Audio | URP
+  packageVersion: 1.5
+  assetPath: Assets/FoundationsOfAudio/Models/LivingRoom/Prefab/VaseFlower_6.5in_LR001.prefab
+  uploadId: 684106

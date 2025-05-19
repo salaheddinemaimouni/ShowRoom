@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fb9ec26e8d9cbb54e8dd422e83b97fa1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183075
+  packageName: Unity Learn | Foundations of Real-Time Audio | URP
+  packageVersion: 1.5
+  assetPath: Assets/FoundationsOfAudio/Models/Kitchen/Prefab/TeaKettle_10inch_KN001.prefab
+  uploadId: 684106

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c5efc39a8aaf6e64ea40e9ad573e9b47
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183075
+  packageName: Unity Learn | Foundations of Real-Time Audio | URP
+  packageVersion: 1.5
+  assetPath: Assets/FoundationsOfAudio/FirstPersonController/Prefabs/PlayerCapsule.prefab
+  uploadId: 684106

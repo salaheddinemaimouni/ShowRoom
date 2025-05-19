@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b40f05506381676429c6c3a3abca7190
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183075
+  packageName: Unity Learn | Foundations of Real-Time Audio | URP
+  packageVersion: 1.5
+  assetPath: Assets/FoundationsOfAudio/Models/Kitchen/Prefab/Range_Hood_36in_KN001.prefab
+  uploadId: 684106

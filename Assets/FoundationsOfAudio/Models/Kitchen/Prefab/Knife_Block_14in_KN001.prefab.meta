@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 304be88800849b745b500084634ad18f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183075
+  packageName: Unity Learn | Foundations of Real-Time Audio | URP
+  packageVersion: 1.5
+  assetPath: Assets/FoundationsOfAudio/Models/Kitchen/Prefab/Knife_Block_14in_KN001.prefab
+  uploadId: 684106

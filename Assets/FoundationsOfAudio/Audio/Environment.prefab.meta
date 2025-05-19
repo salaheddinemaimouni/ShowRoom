@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 37dc3ec28fbab5646b7c91990e054cdb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183075
+  packageName: Unity Learn | Foundations of Real-Time Audio | URP
+  packageVersion: 1.5
+  assetPath: Assets/FoundationsOfAudio/Audio/Environment.prefab
+  uploadId: 684106

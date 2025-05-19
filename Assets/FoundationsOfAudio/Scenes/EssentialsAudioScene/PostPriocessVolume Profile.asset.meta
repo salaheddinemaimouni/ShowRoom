@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0d824fdb649179a4b9b6aaa2be946190
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183075
+  packageName: Unity Learn | Foundations of Real-Time Audio | URP
+  packageVersion: 1.5
+  assetPath: Assets/FoundationsOfAudio/Scenes/EssentialsAudioScene/PostPriocessVolume
+    Profile.asset
+  uploadId: 684106

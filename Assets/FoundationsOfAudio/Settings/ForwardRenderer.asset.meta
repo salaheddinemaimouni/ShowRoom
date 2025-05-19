@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4a8e21d5c33334b11b34a596161b9360
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183075
+  packageName: Unity Learn | Foundations of Real-Time Audio | URP
+  packageVersion: 1.5
+  assetPath: Assets/FoundationsOfAudio/Settings/ForwardRenderer.asset
+  uploadId: 684106

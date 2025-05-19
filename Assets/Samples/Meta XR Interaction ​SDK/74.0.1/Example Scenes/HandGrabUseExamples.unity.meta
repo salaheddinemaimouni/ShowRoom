@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 509f8fa80c708b343a603a4771d35c85
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration (Deprecated)
+  packageVersion: 57.0.2-deprecated
+  assetPath: "Assets/Samples/Meta XR Interaction \u200BSDK/74.0.1/Example Scenes/HandGrabUseExamples.unity"
+  uploadId: 667590

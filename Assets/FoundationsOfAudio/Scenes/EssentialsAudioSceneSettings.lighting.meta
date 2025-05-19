@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8865f7d7cbc854fb4a0975a053d2edae
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183075
+  packageName: Unity Learn | Foundations of Real-Time Audio | URP
+  packageVersion: 1.5
+  assetPath: Assets/FoundationsOfAudio/Scenes/EssentialsAudioSceneSettings.lighting
+  uploadId: 684106

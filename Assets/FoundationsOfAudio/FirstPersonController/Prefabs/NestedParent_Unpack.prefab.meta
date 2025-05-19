@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 035bf1ba97d19214580cfe6f5a29fdc3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183075
+  packageName: Unity Learn | Foundations of Real-Time Audio | URP
+  packageVersion: 1.5
+  assetPath: Assets/FoundationsOfAudio/FirstPersonController/Prefabs/NestedParent_Unpack.prefab
+  uploadId: 684106

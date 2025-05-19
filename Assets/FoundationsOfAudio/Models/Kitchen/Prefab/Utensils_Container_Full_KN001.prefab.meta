@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4763d453d7e438d4c863b0dfd864112d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183075
+  packageName: Unity Learn | Foundations of Real-Time Audio | URP
+  packageVersion: 1.5
+  assetPath: Assets/FoundationsOfAudio/Models/Kitchen/Prefab/Utensils_Container_Full_KN001.prefab
+  uploadId: 684106

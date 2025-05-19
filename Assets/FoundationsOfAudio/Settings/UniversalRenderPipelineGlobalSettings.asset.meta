@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 344c4af5ce54f4873a726702f36d897d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183075
+  packageName: Unity Learn | Foundations of Real-Time Audio | URP
+  packageVersion: 1.5
+  assetPath: Assets/FoundationsOfAudio/Settings/UniversalRenderPipelineGlobalSettings.asset
+  uploadId: 684106
