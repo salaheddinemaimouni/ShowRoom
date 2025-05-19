@@ -33,17 +33,3 @@ Avant de commencer, vous devez avoir installé les outils suivants :
    git clone https://github.com/votre-compte/github-repository.git
 
 ---
-
-### Points clés du fichier `README.md` :
-
-1. **Introduction au projet** : Explication succincte du projet, de son objectif et de ses technologies.
-2. **Prérequis d'installation** : Les étapes nécessaires pour installer le projet, y compris les outils externes comme Unity et Oculus Integration.
-3. **Fonctionnalités du projet** : Ce que le projet peut faire (création et gestion d'ancres spatiales, visualisation d'objets 3D, etc.).
-4. **Utilisation** : Comment utiliser l'application, y compris les étapes pour lancer et interagir avec l'application en VR.
-5. **Développement futur** : Possibilités d'amélioration et fonctionnalités à venir.
-6. **Licence** : Spécifie sous quelle licence le code est distribué (MIT dans cet exemple).
-7. **Contact** : Comment entrer en contact pour des questions ou des suggestions.
-
----
-
-Tu peux personnaliser ce fichier `README.md` pour mieux l'adapter à ton projet, en ajoutant ou modifiant les sections en fonction de tes besoins spécifiques. Assure-toi que les informations soient à jour et reflètent fidèlement le contenu du projet.
