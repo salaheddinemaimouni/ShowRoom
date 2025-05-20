@@ -1,6 +1,6 @@
 # Projet FRV (Formation Réalité Virtuelle) - CETIM
 
-Ce projet est une application en réalité virtuelle (AR) développée dans le cadre d'un projet pour l'entreprise **CETIM**, réalisée à l'**ENSA-METZ**. Il permet de visualiser des objets 3D et de manipuler des ancres spatiales dans un environnement virtuel. Le projet intègre la technologie **Unity** et utilise le **Oculus Integration** pour une expérience immersive en VR.
+Ce projet est une application en réalité virtuelle (AR) développée dans le cadre d'un projet pour l'entreprise **CETIM**, réalisée à l'**ENSAM-METZ**. Il permet de visualiser des objets 3D et de manipuler des ancres spatiales dans un environnement virtuel. Le projet intègre la technologie **Unity** et utilise le **Oculus Integration** pour une expérience immersive en VR.
 
 ## 📝 Objectifs
 
