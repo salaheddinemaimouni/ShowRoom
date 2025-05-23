@@ -33,3 +33,9 @@ Avant de commencer, vous devez avoir installé les outils suivants :
    git clone https://github.com/votre-compte/github-repository.git
 
 ---
+
+2. pour avoir les fichiers APK :
+   ```bash
+   https://drive.google.com/drive/folders/1weET9DBsfnVVlN_5v7lQxjzbLCeNWZWa?usp=sharing
+
+---
